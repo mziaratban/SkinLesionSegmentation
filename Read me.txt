@@ -1,0 +1,2 @@
+We utilized YoloV3, MaskRcnn, and RetinaNet networks from Detectron2 library:
+https://github.com/facebookresearch/detectron2
